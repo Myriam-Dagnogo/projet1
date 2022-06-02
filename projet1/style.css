@@ -1,0 +1,135 @@
+
+.box {
+  border: 1px solid #c4c4c4;
+  padding: 30px 25px 10px 25px;
+  background: white;
+  margin: 30px auto;
+  width: 360px;
+}
+h1.box-logo a {
+  text-decoration:none;
+}
+h1.box-title {
+  color: #AEAEAE;
+  background: #f8f8f8;
+  font-weight: 300;
+  padding: 15px 25px;
+  line-height: 30px;
+  font-size: 25px;
+  text-align:center;
+  margin: -27px -26px 26px;
+}
+.box-button {
+  border-radius: 5px;
+  background: #d2483c;
+  text-align: center;
+  cursor: pointer;
+  font-size: 19px;
+  width: 100%;
+  height: 51px;
+  padding: 0;
+  color: #fff;
+  border: 0;
+  outline:0;
+}
+.box-register
+{
+  text-align:center;
+  margin-bottom:0px;
+}
+.box-register a
+{
+  text-decoration:none;
+  font-size:12px;
+  color:#666;
+}
+.box-input {
+  font-size: 14px;
+  background: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 25px;
+  padding-left:10px;
+  border-radius: 5px;
+  width: 347px;
+  height: 50px;
+}
+.box-input:focus {
+    outline: none;
+    border-color:#5c7186;
+}
+.sucess{
+	text-align: center;
+	color: white;
+}
+.sucess a {
+	text-decoration: none;
+	color: #58aef7;
+}
+p.errorMessage {
+    background-color: #e66262;
+    border: #AA4502 1px solid;
+    padding: 5px 10px;
+    color: #FFFFFF;
+    border-radius: 3px;
+}
+/*deuxième div de section1*/
+.div2section1{
+    display:flex;
+    margin-top: 5px;
+   
+}
+/*troisième div section 1*/
+.div3section1{
+    background-color:#fff;
+    width: 50%;
+    height: 660px;
+}
+/*4ème div de section1*/
+.div4section1{
+    width: 50%;
+    height: 660px;
+    justify-content: flex-end;
+}
+    /*5ème div section1*/
+.etbien{
+       background-color: #63156d;
+       width: 600px;
+       height: 40px;
+       }
+.bjr{
+    font-size: 60px;
+    color:#63156d;
+    font-family: Adobe Caslon Pro Bold;
+    margin-right: 100px;
+   
+    
+}
+.etbien{
+    color: #fff;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.jmap{
+    color: rgba(224, 5, 5, 0.685);
+    font-style: italic;
+    font-size: 20px;
+}
+.monnom{
+    font-size: 40px;
+    font-family:  times;
+    font-style: initial;
+    color: #fff;
+    text-decoration: none;
+}
+.monnom:hover {
+    background-color:grey;
+   
+}
+.row{
+    background-color: #000;
+    margin-top: 500px;
+}
+.td-none{
+    text-decoration: none;
+
+}
